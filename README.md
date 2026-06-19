@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes retail sales data using Microsoft Excel to identify sales trends, outlet performance, product demand, and regional sales patterns. An interactive dashboard was developed to transform raw data into actionable business insights.
+This project analyzes grocery retail sales data using Microsoft Excel to identify sales trends, outlet performance, product demand, and regional sales patterns. An interactive dashboard was developed to transform raw data into actionable business insights.
 
 ## Business Objective
 
