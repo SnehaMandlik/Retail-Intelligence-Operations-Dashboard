@@ -79,7 +79,7 @@ This outlet format was the strongest contributor to sales.
 
 The project demonstrates how Microsoft Excel can be used to transform raw business data into meaningful insights that support data-driven decision making.
 
-## 👩‍💻 Author
+## Author
 
 **Sneha Mandlik**
 Fresher Data Analyst | Python | SQL | Power BI | Excel | Mumbai
