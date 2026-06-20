@@ -24,7 +24,6 @@ The objective of this project was to:
 * Slicers
 * Conditional Formatting
 * KPI Cards
-* SUM, AVERAGE, COUNTIF, SUMIF
 
 ## Key Performance Indicators
 
